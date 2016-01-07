@@ -1,0 +1,2 @@
+id%$%password%$%name%$%address%$%debit$%$
+030001%$%zxcvbn%$%saumil%$%sdjan jasdn jka%$%123456$%$

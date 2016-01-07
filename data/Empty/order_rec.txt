@@ -1,0 +1,1 @@
+order_id%$%cust_id%$%amount%$%type%$%rem_amount%$%installments$%$

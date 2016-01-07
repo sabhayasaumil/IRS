@@ -1,0 +1,2 @@
+order_id%$%cust_id%$%amount%$%type%$%rem_amount%$%installments$%$
+030001%$%asdf asdf asdf asf as %$%214134%$%032007$%$

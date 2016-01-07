@@ -1,0 +1,1 @@
+cust_id%$%address%$%property_value%$%order_id$%$

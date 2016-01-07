@@ -1,0 +1,1 @@
+payment_id%$%cust_id%$%amount%$%bank_name%$%debit%$%shipping_name%$%shipping_met%$%address$%$
